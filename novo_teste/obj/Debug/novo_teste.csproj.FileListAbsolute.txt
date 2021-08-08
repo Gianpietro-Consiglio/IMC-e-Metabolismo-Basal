@@ -1,0 +1,14 @@
+C:\Users\Gianpietro Consiglio\source\repos\novo_teste\novo_teste\bin\Debug\novo_teste.exe.config
+C:\Users\Gianpietro Consiglio\source\repos\novo_teste\novo_teste\bin\Debug\novo_teste.exe
+C:\Users\Gianpietro Consiglio\source\repos\novo_teste\novo_teste\bin\Debug\novo_teste.pdb
+C:\Users\Gianpietro Consiglio\source\repos\novo_teste\novo_teste\obj\Debug\novo_teste.csproj.AssemblyReference.cache
+C:\Users\Gianpietro Consiglio\source\repos\novo_teste\novo_teste\obj\Debug\novo_teste.Form1.resources
+C:\Users\Gianpietro Consiglio\source\repos\novo_teste\novo_teste\obj\Debug\novo_teste.Properties.Resources.resources
+C:\Users\Gianpietro Consiglio\source\repos\novo_teste\novo_teste\obj\Debug\novo_teste.csproj.GenerateResource.cache
+C:\Users\Gianpietro Consiglio\source\repos\novo_teste\novo_teste\obj\Debug\novo_teste.csproj.CoreCompileInputs.cache
+C:\Users\Gianpietro Consiglio\source\repos\novo_teste\novo_teste\obj\Debug\novo_teste.exe
+C:\Users\Gianpietro Consiglio\source\repos\novo_teste\novo_teste\obj\Debug\novo_teste.pdb
+C:\Users\Gianpietro Consiglio\source\repos\novo_teste\novo_teste\bin\Debug\novo_teste.exe.manifest
+C:\Users\Gianpietro Consiglio\source\repos\novo_teste\novo_teste\bin\Debug\novo_teste.application
+C:\Users\Gianpietro Consiglio\source\repos\novo_teste\novo_teste\obj\Debug\novo_teste.exe.manifest
+C:\Users\Gianpietro Consiglio\source\repos\novo_teste\novo_teste\obj\Debug\novo_teste.application
